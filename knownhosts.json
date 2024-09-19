@@ -1,0 +1,24 @@
+{
+    "hosts": {
+        "view": {
+            "udp_start_port": 15000,
+            "udp_end_port": 15009,
+            "ip_address": "localhost"
+        },
+        "alpha": {
+            "udp_start_port": 15010,
+            "udp_end_port": 15019,
+            "ip_address": "localhost"
+        },
+        "beta": {
+            "udp_start_port": 15020,
+            "udp_end_port": 15029,
+            "ip_address": "localhost"
+        },
+        "client1": {
+            "udp_start_port": 15030,
+            "udp_end_port": 15039,
+            "ip_address": "localhost"
+        }
+    }
+}
